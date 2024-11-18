@@ -2,6 +2,9 @@
 
 this is a compilation of (imo) the best resources for deeply understanding system design
 
+## books
+- ddia [pdf](https://github.com/lafengnan/ebooks-1/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
+
 ## mock interview style videos (design an x)
 - jordan has no life [yt](https://www.youtube.com/@jordanhasnolife5163)
 - hello interview [site](https://www.hellointerview.com/) [yt](https://www.youtube.com/@hello_interview)
