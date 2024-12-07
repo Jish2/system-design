@@ -4,6 +4,7 @@ this is a compilation of (imo) the best resources for deeply understanding syste
 
 ## books
 - ddia [pdf](https://github.com/lafengnan/ebooks-1/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
+- database internals [site](https://www.databass.dev/)
 
 ## mock interview style videos (design an x)
 - jordan has no life [yt](https://www.youtube.com/@jordanhasnolife5163)
