@@ -5,6 +5,8 @@ this is a compilation of (imo) the best resources for deeply understanding syste
 ## books
 - ddia [pdf](https://github.com/lafengnan/ebooks-1/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
 - database internals [site](https://www.databass.dev/)
+- system design interview (alex xu) [amz](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/?_encoding=UTF8&pd_rd_w=krSsE&content-id=amzn1.sym.05575cf6-d484-437c-b7e0-42887775cf30&pf_rd_p=05575cf6-d484-437c-b7e0-42887775cf30&pf_rd_r=137-9524945-8086451&pd_rd_wg=JFSJa&pd_rd_r=8c43f858-e8e9-472f-a560-3319d8758860&ref_=aufs_ap_sc_dsk)
+
 
 ## mock interview style videos (design an x)
 - jordan has no life [yt](https://www.youtube.com/@jordanhasnolife5163)
@@ -23,7 +25,7 @@ this is a compilation of (imo) the best resources for deeply understanding syste
 
 ## great diagrams
 - david boyne visuals [site](https://eda-visuals.boyney.io/)
-- bytebytego [gh](https://github.com/ByteByteGoHq/system-design-101)
+- bytebytego [gh](https://assets.bytebytego.com/ByteByteGo-Big-Archive-System-Design-2023.pdf)
 
 
 ## engineering blogs
