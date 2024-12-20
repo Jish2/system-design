@@ -23,6 +23,7 @@ this is a compilation of (imo) the best resources for deeply understanding syste
 ## concept overviews
 - arpit bhayani [substack](https://substack.com/@arpit/posts), [yt](https://www.youtube.com/c/ArpitBhayani), [site](https://arpitbhayani.me/)
 - microservices.io [site](https://microservices.io/patterns/index.html)
+- https://liuzhenglaichn.gitbook.io/system-design
 
 
 ## great diagrams
